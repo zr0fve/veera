@@ -1,8 +1,14 @@
 # About
 
-An entirely new and rewritten Granblue companion based on the Ancheera concept.
+Forked from Veera which is an entirely new and rewritten Granblue companion based on the Ancheera concept.
 
-**Current features:**
+**WIP/Updates Planned:**
+- Add missing raids
+- Modify Eternals/Evoker Tracker
+- Remove battle statistics
+- Modify UI to my preferrence
+
+**Veera features:**
 
 - JST, reset, ST, buff timers with notifications.
 - Raids tracker, with quick-hosting and requirement checking.
@@ -19,17 +25,12 @@ An entirely new and rewritten Granblue companion based on the Ancheera concept.
 - Quick navigation to common screens.
 - Link user profile for last used support summon.
 - Automatic spark progress calculation.
-- More features & tools coming...
 
 # Disclaimer
 
-__WARNING: Regardless of how low the risk is, Veera is still an unofficial tool and thus against TOS.__
+__WARNING: Regardless of how low the risk is, This is still an unofficial tool and thus against TOS.__
 
-Veera is a WIP which means bugs, inefficiencies, regular changes, and the occasional DIY.
-
-Veera is a passive QoL extension. It does not modify anything about the game, its data, browser page, UI, requests, nor overlays anything.  
-It only reads and displays game traffic for ease of use, or loads it from its own local storage.  
-No requests are made by Veera itself. Chrome loads thumbnails like for a normal page. Raid hosting works with URLs like bookmarks.
+Forked for educational/learning purposes only.
 
 # Installation & Usage
 
@@ -52,21 +53,9 @@ Feel free to ask questions on the Issues page. They could even lead to bug fixes
 
 # Development & Contributing
 
-I am doing this in large part as an educational experience, please don't expect too much.
-
-* Pull Requests for bug fixes, improvements or new features are very welcome.
-* File bug reports if you run into trouble.
-* The wiki should be open for anyone to edit. Feel free to do so.
-  
-Please make all pull requests against the master branch.  
-The dev branch is just my personal working branch pushed for preview. It is not intended to be used for anything else.  
-If you want to provide feedback another way you can find me on the GBFI discord or Twitter.
-
-If you have any problems, the background page (accessible through chrome's extension page) is the first place to look.  
-If this doesn't help you solve it yourself; enable the verbose level, repeat the faulting action, `right-click, save as` and attach the log to your issue submission.
+This will be a personal tool and I currently will not accommodate Pull Requests
 
 # Thanks to
 
-- @Thessiah for the original Ancheera, which has seen much use.
-- The Orcheed author for extending Ancheera's lifetime and inciting my attempt.
-- My crew and github contributors for their assistance.
+- @Thessiah for the original Ancheera
+- @noccu for the Veera fork
